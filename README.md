@@ -17,9 +17,3 @@ python main.py
 - `bank_account.py`: módulo contendo a definição da classe `BankAccount`
 - `__init__.py`: arquivo vazio necessário para tornar `bank_account.py` um pacote
 
-## Contribuindo
-Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue para relatar um problema ou sugerir uma nova funcionalidade. Caso queira contribuir com código, por favor abra um pull request e aguarde uma revisão.
-
-## Licença
-Este projeto é licenciado sob a licença MIT. Leia o arquivo `LICENSE` para mais informações.
-
